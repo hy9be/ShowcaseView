@@ -1,4 +1,4 @@
-ShowcaseView is deprecated
+A fork of ShowcaseView with memory leak fixed
 ====
 Currently, ShowcaseView is not under active development; issues cannot be opened and PRs will not be accepted.
 
